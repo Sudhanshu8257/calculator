@@ -9,6 +9,7 @@ body {
     #f6d365 49.27%,
     #fda085 100%
   );
+  background-attachment:fixed;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
