@@ -10,6 +10,7 @@ body {
   width: 100%;
   gap: 10px;
   background: linear-gradient(90deg, #000 0%, #2d3436 100%);
+  background-attachment:fixed;
 }
 .name {
   font-family: Holtwood One SC;
